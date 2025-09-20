@@ -1,2 +1,2 @@
 # Neural-Network-Practice
-Practice with Neural Networks
+This repository just contains some neural networks I built to gain a better undersanding of them.
